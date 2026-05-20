@@ -1,4 +1,6 @@
 # GTX REMIX
+<img width="966" height="258" alt="gtxremix_logo_banner-removebg" src="https://github.com/user-attachments/assets/c01a63ca-0c54-4c94-87cd-b3f6d7bc33fb" />
+
 
 GTX-class post stack that approximates RTX-style lighting with **Vulkan compute**, **screen-space techniques**, and **temporal accumulation**. There is **no** hardware ray tracing, **no** DXR/VK ray tracing pipelines, and **no** DLSS dependency.
 
